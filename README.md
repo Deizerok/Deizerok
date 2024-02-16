@@ -1,7 +1,7 @@
-### Hi there 👋
+### 11-year-old talent 👋
 
 - 🐱 Start in programming: 19.10.23
-- ⚡ 11-year-old talent
+- ⚡ Learn  Kotlin 
 <!--
 **Deizerok/Deizerok** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
