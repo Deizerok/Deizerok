@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🐱 Start in programming: 19.10.23
-
+- ⚡ 11-year-old talent
 <!--
 **Deizerok/Deizerok** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
