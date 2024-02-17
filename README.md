@@ -1,4 +1,4 @@
-### 11-year-old talent 👋
+### 11-year-old  👋
 
 - 🐱 Start in programming: 19.10.23
 - ⚡ I have basic experience with Android SDK and Android Studio
