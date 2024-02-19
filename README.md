@@ -2,7 +2,7 @@
 
 - 🐱 Start in programming: 19.10.23
 - ⚡ I have basic experience with Android SDK and Android Studio
-- I write the code using the oop method
+- 🌱 I write the code using the oop method
 <!--
 **Deizerok/Deizerok** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
