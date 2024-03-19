@@ -1,4 +1,4 @@
-### Pasha -> 11-year-old "pogromist"  👋
+### Pasha -> 11-year-old Android Developer  👋
 
 - 🐱 Start in programming: 19.10.23
 - ⚡ I have basic experience with Android SDK and Android Studio
