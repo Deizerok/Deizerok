@@ -1,6 +1,6 @@
 ### Pasha -> 12-year-old Android Developer  👋
 
-- 🐱 Start in programming: 19.10.23 (seven months)
+- 🐱 Start in programming: 19.10.23 (nine months)
 - ⚡ I have basic experience with Android SDK and Android Studio
 - 🌱 I write the code using the oop method
 - 🌍 I live in Ukraine 
