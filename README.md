@@ -1,7 +1,8 @@
 ### Pasha -> 12-year-old Android Developer  👋
 
 - 🐱 Start in programming: 19.10.23 (1 year)
-- ⚡ I have big experience with Android SDK and Android Studio
+- ⚡ I have big experience with Android SDK and Android Studio, Figma
+- 🔭 I use Kotlin and Compose Multiple Platforms
 - 🌱 I write the code using the oop method
 - 🌍 I live in Ukraine 
 <!--
