@@ -1,4 +1,4 @@
-### Pasha -> 12-year-old Android Developer  👋
+### Pasha -> 13-year-old Android Developer  👋
 
 - 🐱 Start in programming: 19.10.23 (1 year)
 - ⚡ I have big experience with Android SDK and Android Studio, Figma
